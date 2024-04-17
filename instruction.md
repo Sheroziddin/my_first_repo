@@ -32,4 +32,4 @@
 
 last of us
 
-![]()
+![Privet eto teftelka](kotel-gazovyj-protherm-medved.jpg)
