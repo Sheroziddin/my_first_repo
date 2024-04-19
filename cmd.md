@@ -29,3 +29,5 @@ del "filename"
 ```sh
 rm "filebane"
 ```
+
+izmeneniye na vetke2
